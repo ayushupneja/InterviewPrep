@@ -7,6 +7,7 @@ import sys
 # Complete the swapNodes function below.
 #
 def swapNodes(indexes, queries):
+    
     #
     # Write your code here.
     #
